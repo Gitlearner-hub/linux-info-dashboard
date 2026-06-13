@@ -9,3 +9,4 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("mem-used").textContent = "2 GB";
 
 });
+// Añadir fecha y hora de actualización automática
